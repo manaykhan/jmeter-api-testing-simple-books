@@ -30,8 +30,11 @@ The Simple Books API requires authentication for most endpoints (POST, PATCH, DE
 ```
 
 3. Set Authorization header in JMeter via HTTP Header Manager:
+```
 Key: Authorization
 Value: Bearer <MY_TOKEN>
+```
+
 
 ## ✅ Part 1: Full API Workflow Test Plan
 
